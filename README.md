@@ -31,4 +31,4 @@ Code and experiments are under development.
 
 ## Contact
 
-For research collaboration or questions, reach me at lenbow2017@gmail.com.
+For research collaboration or questions, reach me at lenbow2017@gmail.com or rainbowlin@tencent.com.
